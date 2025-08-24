@@ -3,8 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/habit-tracker/',
-  build: {
-    outDir: 'dist'
-  }
+  base: '/Personal-Habit-tracker/'
 })
