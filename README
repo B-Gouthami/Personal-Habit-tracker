@@ -30,8 +30,8 @@ npm or yarn
 Installation
 
 Clone the repository
-bashgit clone https://github.com/yourusername/habit-tracker.git
-cd habit-tracker
+bashgit clone https://github.com/B-Gouthami/Personal-Habit-tracker.git
+cd Personal-Habit-tracker
 
 Install dependencies
 bashnpm install
